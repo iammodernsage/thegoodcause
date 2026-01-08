@@ -1,6 +1,6 @@
-- The Good Cause
+# The Good Cause
 
--- A community driven project to unmask corruption & malpractices in the bureaucracy & governments
+- A community driven project to unmask corruption & malpractices in the bureaucracy & governments.
 
 -----------------------------------------
 
